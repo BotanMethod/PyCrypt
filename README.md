@@ -1,5 +1,5 @@
 # PyCrypt
-This is an util for encrypt/decrypt files on python!
+This is an util for encrypt/decrypt any files on python!
 
 # Guide
 modes: Encrypt/Decrypt
